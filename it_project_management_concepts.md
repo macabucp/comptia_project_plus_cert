@@ -82,7 +82,7 @@
 
 - **Next Steps**:
   - As you progress through the Project+ course, keep these concepts in mind as they will be integral to understanding more complex project management scenarios and solutions.
---
+-
 
  # **Cloud Models for IT Projects**
 
